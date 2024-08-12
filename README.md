@@ -1,2 +1,2 @@
 # University.
-Ad: Lander: 
+Ad: [Quantum Computing Fundamentals](https://youtu.be/aeDbYuJyXr8), Lander: https://learn-xpro.mit.edu/quantum-computing?utm_medium=ppc&utm_source=google&utm_campaign=qcx&utm_term=&utm_content=aw-us-pmax&utm_term=&utm_campaign=Program+Quantum+Computing+-+Run+18+-+PMax+-+Lead+Gen+-+USA&utm_source=adwords&utm_medium=ppc&hsa_acc=2285614976&hsa_cam=20367150160&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw5ea1BhC6ARIsAEOG5pwZmhywkbQKssYvVe9U62dNSavxp8OP-JdhkF409M-kGlew6Ag3z_4aAsJGEALw_wcB
