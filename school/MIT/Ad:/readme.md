@@ -5,7 +5,7 @@ video[0]: [You're Invited: Inside MIT xPRO's Online Quantum Computing Certificat
 video[1]: [Quantum Computing Fundamentals](https://youtu.be/aeDbYuJyXr8)
 - Lander: https://learn-xpro.mit.edu/quantum-computing?utm_medium=paidsocial&utm_source=youtube&utm_campaign=qcx&utm_content=yt-us&utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=2285614976&hsa_cam=17460205811&hsa_grp=138142131752&hsa_ad=603074214656&hsa_src=ytv&hsa_tgt=aud-565098250220&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw6JS3BhBAEiwAO9waF8B6cKy3HAELXVX-FdAvbYshkK6ZteO9q5YC4FgGHpr1f8OV7nBajxoCXiwQAvD_BwE
 
-image[0]:
+image[0]: ./ark/robot1.jpg
 text:
 >MIT Online Certificate Program
 >Machine Learning, Modeling, and Simulation: Engineering Problem-Solving in the Age of AI
